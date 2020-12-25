@@ -1,0 +1,4 @@
+change ami id, security group and check keyname
+
+select correct keyname while selecting stack in CF
+
